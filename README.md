@@ -11,3 +11,5 @@ CONTROLS:
   Left/Right to move Tetris piece left/right 1 block
   Space to quick drop tetris piece
   p to pause/unpause the game
+
+Program is final project for MIT Computer Science course 6.189
